@@ -2,7 +2,6 @@
 '''
     0x01. Lockboxes
 '''
-
 def canUnlockAll(boxes):
     n = len(boxes)
     seen_boxes = set([0])
